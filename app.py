@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/15X9TCMOOAGHZOZC2HjzsHDZDnnPFpFHa
 """
 
-pip install openai
-
 from flask import Flask
 from flask import render_template,request
 import json
